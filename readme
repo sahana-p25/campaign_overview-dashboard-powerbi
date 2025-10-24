@@ -1,0 +1,23 @@
+🎯 Objectives
+•	Evaluate marketing campaign performance across regions and formats.
+•	Identify top-performing campaigns based on Maximum ROI.
+•	Compare spend and revenue distribution by region.
+•	Visualize campaign type distribution (Digital vs. Traditional).
+•	Benchmark overall ROI against target thresholds.
+🛠️ Actions Taken
+•	Calculated and displayed key metrics: Average ROI (0.65), Total Revenue (42.54M), Total Spend (25.69M).
+•	Used DAX logic to dynamically highlight the top campaign based on ROI.
+•	Built comparative visuals:
+o	Bar charts for spend vs. revenue by region.
+o	Combo chart for spend and average ROI by campaign name.
+o	Horizontal bar chart for ROI ranking.
+•	Segmented campaign types using a pie chart.
+•	Added a gauge chart to track total ROI against target.
+📌 Key Findings
+•	Billboards emerged as the top campaign based on maximum ROI.
+•	Radio Ads and TV Ads showed the highest ROI percentages (~74% and ~71% respectively).
+•	Africa and North America generated strong revenue relative to spend.
+•	Traditional campaigns accounted for 62.5% of total campaigns, indicating a heavier investment in offline channels.
+•	Overall ROI of 65.56% is slightly below the target of 70%, indicating near-target performance with room for optimization.
+
+
